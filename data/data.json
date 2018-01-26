@@ -1,0 +1,153 @@
+{
+	"mapList":{
+		"album":[{
+			"albumImage":"../resource/music/album/yongqi/100751465709891.jpg",
+			"albumBG":"../resource/music/album/yongqi/albumBG.jpg",
+			"playerbg":"../resource/music/album/yongqi/playerBg.jpg",
+			"albumTitle":"勇气",
+			"albumSinger":"梁静茹",
+			"albumList":[{
+				"musicName":"勇气",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.lrc"
+			},{
+				"musicName":"如果有一天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.lrc"
+			},{
+				"musicName":"半个月亮",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.lrc"
+			},{
+				"musicName":"没有水的游泳池",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 04. 没有水的游泳池.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 04. 没有水的游泳池.lrc"
+			},{
+				"musicName":"最烂的理由",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 05. 最烂的理由.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 05. 最烂的理由.lrc"
+			},{
+				"musicName":"爱你不是两三天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 06. 爱你不是两三天.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 06. 爱你不是两三天.lrc"
+			},{
+				"musicName":"爱计较",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 07. 爱计较.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 07. 爱计较.lrc"
+			},{
+				"musicName":"昨天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 08. 昨天.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 08. 昨天.lrc"
+			},{
+				"musicName":"多数是晴天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 09. 多数是晴天.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 09. 多数是晴天.lrc"
+			},{
+				"musicName":"最后",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 10. 最后.mp3",
+				"musicLyric":"../resource/music/album/yongqi/梁静茹 - 10. 最后.lrc"
+			}]
+		},{
+			"albumImage":"../resource/music/album/ADele/adele.jpg",
+			"albumBG":"../resource/music/album/ADele/adeleAlbum.jpg",
+			"playerbg":"../resource/music/album/ADele/adelebg.jpg",
+			"albumTitle":"25",
+			"albumSinger":"ADele",
+			"albumList":[{
+				"musicName":"Hello",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/01 Adele - Hello.mp3",
+				"musicLyric":"../resource/music/album/ADele/01 Adele - Hello.lrc"
+			},{
+				"musicName":"Send My Love (To Your New Lover)",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/02 Adele - Send My Love (To Your New Lover).mp3",
+				"musicLyric":"../resource/music/album/ADele/02 Adele - Send My Love (To Your New Lover).lrc"
+			},{
+				"musicName":"I Miss You",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/03 Adele - I Miss You.mp3",
+				"musicLyric":"../resource/music/album/ADele/03 Adele - I Miss You.lrc"
+			},{
+				"musicName":"When We Were Young",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/04 Adele - When We Were Young.mp3",
+				"musicLyric":"../resource/music/album/ADele/04 Adele - When We Were Young.lrc"
+			},{
+				"musicName":"Remedy",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/05 Adele - Remedy.mp3",
+				"musicLyric":"../resource/music/album/ADele/05 Adele - Remedy.lrc"
+			},{
+				"musicName":"Water Under the Bridge",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/06 Adele - Water Under the Bridge.mp3",
+				"musicLyric":"../resource/music/album/ADele/06 Adele - Water Under the Bridge.lrc"
+			},{
+				"musicName":"River Lea",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/07 Adele - River Lea.mp3",
+				"musicLyric":"../resource/music/album/ADele/07 Adele - River Lea.lrc"
+			},{
+				"musicName":"Love in the Dark",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/08 Adele - Love in the Dark.mp3",
+				"musicLyric":"../resource/music/album/ADele/08 Adele - Love in the Dark.lrc"
+			},{
+				"musicName":"Million Years Ago",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/09 Adele - Million Years Ago.mp3",
+				"musicLyric":"../resource/music/album/ADele/09 Adele - Million Years Ago.lrc"
+			},{
+				"musicName":"All I Ask",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/10 Adele - All I Ask.mp3",
+				"musicLyric":"../resource/music/album/ADele/10 Adele - All I Ask.lrc"
+			},{
+				"musicName":"Sweetest Devotion",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/11 Adele - Sweetest Devotion.mp3",
+				"musicLyric":"../resource/music/album/ADele/11 Adele - Sweetest Devotion.lrc"
+			},{
+				"musicName":"Can't Let Go",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/12 Adele - Can't Let Go.mp3",
+				"musicLyric":"../resource/music/album/ADele/12 Adele - Can't Let Go.lrc"
+			},{
+				"musicName":"Lay Me Down",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/13 Adele - Lay Me Down.mp3",
+				"musicLyric":"../resource/music/album/ADele/13 Adele - Lay Me Down.lrc"
+			},{
+				"musicName":"Why Do You Love Me",
+				"musicSinger":"ADele",
+				"musicUrl":"../resource/music/album/ADele/14 Adele - Why Do You Love Me.mp3",
+				"musicLyric":"../resource/music/album/ADele/14 Adele - Why Do You Love Me.lrc"
+			}]
+		}],
+		"recommend":[{
+			"albumImage":"../resource/music/recommend/13947771055674.jpg",
+			"playerbg":"../resource/music/recommend/24048_n.jpg",
+			"musicName":"无情的雨无情的你",
+			"musicSinger":"齐秦",
+			"musicUrl":"../resource/music/recommend/无情的雨无情的你 - 齐秦.mp3",
+			"musicLyric":"../resource/music/recommend/无情的雨无情的你 - 齐秦.lrc"
+		},{
+			"albumImage":"../resource/music/recommend/yww.jpg",
+			"playerbg":"../resource/music/recommend/ywwbg.jpg",
+			"musicName":"体面",
+			"musicSinger":"于文文",
+			"musicUrl":"../resource/music/recommend/体面-于文文.mp3"
+		}]
+	}
+}
